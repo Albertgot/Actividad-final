@@ -1,0 +1,127 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(255, 252, 252);
+    background-image: url(imagenes/fondo.webp);
+}
+
+#logo2-imagen{
+    text-align: center;
+    transform: translateX(-50%);
+    position: relative;
+    right: -800px;
+    display: block;
+
+}
+nav{
+    list-style-type: none;
+    text-align: center;
+    border: 5px solid #db8400;
+    display: block;
+    padding: 10px;
+    margin: 15px;
+    position: relative;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 20px 0px #db8400;
+    box-shadow: 4px 4px 20px 0px #db8400;
+    text-align: center;
+    color: #db8400;
+    background-color: rgb(255, 255, 255);
+}
+
+nav ul li{
+    border: 1px solid #db8;
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    position: relative;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 20px 0px #db8;
+    box-shadow: 4px 4px 20px 0px ;
+    text-align: center #db8400;
+    color: rgb(255, 252, 252);
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #ffffff;
+}
+
+h1{
+    border: 1px solid #db8400;
+    display: block;
+    padding: 10px;
+    margin: 5px;
+    position: relative;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 20px 0px #db8400;
+    box-shadow: 4px 4px 20px 0px #db8400;
+    text-align: center;
+    color: #db8400;
+    background-color: rgb(255, 255, 255);
+}
+
+h2{
+    border: 1px solid #db8400;
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    position: relative;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 20px 0px #db8400;
+    box-shadow: 4px 4px 20px 0px #db8400;
+    text-align: center;
+    color: #db8400;
+    background-color: rgb(255, 255, 255);
+}
+
+#imagen{
+    display: block;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.plato{
+    border: 1px solid #db8400;
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    position: relative;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 20px 0px #db8400;
+    box-shadow: 4px 4px 20px 0px #db8400;
+    text-align: center;
+    color: #db8400;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+
+.plato2{
+    border: 1px solid #db8400;
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    position: relative;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 20px 0px #db8400;
+    box-shadow: 4px 4px 20px 0px #db8400;
+    text-align: center;
+    color: #db8400;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+.plato{
+    border: 1px solid #db8400;
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    position: relative;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 20px 0px #db8400;
+    box-shadow: 4px 4px 20px 0px #db8400;
+    text-align: center;
+    color: #db8400;
+    background-color: rgb(255, 255, 255);
+}
+
